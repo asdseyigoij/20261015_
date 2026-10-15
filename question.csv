@@ -1,0 +1,16 @@
+question,option1,option2,option3,option4,answer
+在 p5.js 中哪一個函式通常只在程式開始時執行一次？,draw(),setup(),loop(),start(),1
+在 p5.js 中哪一個函式會在動畫播放時持續重複執行？,setup(),draw(),begin(),repeat(),1
+哪一個 p5.js 指令可以建立指定寬度與高度的畫布？,createCanvas(),makeCanvas(),newCanvas(),canvasSize(),0
+哪一個 p5.js 指令可以設定畫布的背景顏色？,fill(),background(),stroke(),color(),1
+哪一個 p5.js 指令可以設定圖形內部的填色？,stroke(),background(),fill(),paint(),2
+哪一個 p5.js 指令可以設定圖形外框的顏色？,border(),stroke(),outline(),lineColor(),1
+哪一個 p5.js 指令可以畫出橢圓形？,circle(),ellipse(),ovalShape(),round(),1
+哪一個 p5.js 指令可以畫出矩形？,squareBox(),rectangle(),rect(),boxShape(),2
+哪一個 p5.js 指令可以畫出圓形？,ellipse(),circle(),round(),disk(),1
+哪一個 p5.js 指令可以畫出直線？,line(),segment(),drawLine(),strokeLine(),0
+哪一個 p5.js 指令可以設定文字大小？,fontSize(),textSize(),sizeText(),文字大小(),1
+哪一個 p5.js 指令可以在畫布上顯示文字？,write(),label(),text(),showText(),2
+哪一個 p5.js 指令可以把圖形的座標原點移動到指定位置？,moveOrigin(),translate(),position(),origin(),1
+哪一個 p5.js 指令可以旋轉目前的座標系統？,turn(),rotate(),spin(),angle(),1
+哪一個 p5.js 指令可以停止 draw() 的循環執行？,stopDraw(),noLoop(),pauseDraw(),halt(),1
